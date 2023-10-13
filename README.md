@@ -12,7 +12,7 @@ package test
 ```
 Context: I installed ent in a package called `db`, whereas by default the docs use an `ent` folder.
 
-Do I *need* to use the runtime? I know the advice says I **MUST** include it, so am I putting it in the wrong place? Or misconfiguring something else?
+Do I *need* to use the runtime? I know the advice says I **MUST** include it as `import _ "test/db/runtime"` where the client is being instantiated, so am I putting it in the wrong place (`db.go`)? Or misconfiguring something else?
 
 I tried to follow this advice in the Github issues:
 - https://github.com/ent/ent/issues/3646#issuecomment-1633376763
