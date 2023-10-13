@@ -18,6 +18,6 @@ I tried to follow this advice in the Github issues:
 - https://github.com/ent/ent/issues/3646#issuecomment-1633376763
 - https://github.com/ent/ent/issues/892#issuecomment-1182760541
 
-But I am not comprehending the instructions, so I thought hoping on here would work. I'm learning Golang so some of the vocabulary and necessary context is missing for me to be able to implement what I found in the comments.
+But I am not comprehending the instructions, so I thought posting the minimum reproduction for Discord would work. I'm learning Golang so some of the vocabulary and necessary context is missing for me to be able to implement what I found in the comments.
 
 Please take a look at the code and let me know in Discord what I'm doing incorrectly! Thank you ahead of time.
