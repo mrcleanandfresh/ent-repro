@@ -5,7 +5,6 @@ import (
 	"fmt"
 	"log"
 	"os"
-	_ "test/db/runtime"
 )
 
 var host = os.Getenv("DB_HOST")
